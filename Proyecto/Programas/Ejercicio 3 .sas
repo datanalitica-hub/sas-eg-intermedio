@@ -1,0 +1,6 @@
+/*Ejemplo 3*/
+PROC SQL;
+	SELECT  Codigo_IsoA3_Pais, 
+			(EFW1 + EFW2 + EFW3 + EFW4 + EFW5)/5 AS PROMEDIO_EFW 
+	   FROM efw.ECONVAR2005;
+QUIT;

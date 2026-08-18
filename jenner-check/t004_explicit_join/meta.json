@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_explicit_join",
+  "source_file": "Proyecto/Programas/Ejercicio 10.sas",
+  "source_blob_sha": "60588516b9c34e9168439c66010c1ef3f95591eb",
+  "source_commit": "c8e07963c4a59f3ce636337fa2474572819f8a70",
+  "notes": "Ejercicio 10 - Join Explicito: PROC SQL explicit INNER JOIN between efw.pais and efw.sub_continente on the sub-continent id. Script copied unmodified; mock efw.pais and efw.sub_continente tables substituted for the undefined 'efw' library, sized so every country row has a matching sub-continent."
+}

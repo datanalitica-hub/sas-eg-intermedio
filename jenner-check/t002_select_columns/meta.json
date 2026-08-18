@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_select_columns",
+  "source_file": "Proyecto/Programas/Ejercicio 2.sas",
+  "source_blob_sha": "bb04a6b1794d0b5c66ed00172cee65021eeff780",
+  "source_commit": "c8e07963c4a59f3ce636337fa2474572819f8a70",
+  "notes": "Ejercicio 2: PROC SQL SELECT of three explicit columns from efw.pais (no WHERE). Script copied unmodified; same mock efw.pais table as t001 substituted for the undefined 'efw' library."
+}

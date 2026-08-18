@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-08-18T05:44:13.199100+00:00",
+  "_captured_run_id": "r_17b680cc8ee94a3fa4678230e3819f1e",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote efw.pais (10 rows, 4 columns).",
+    "NOTE: Wrote efw.sub_continente (4 rows, 2 columns).",
+    "NOTE: PROC SQL statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

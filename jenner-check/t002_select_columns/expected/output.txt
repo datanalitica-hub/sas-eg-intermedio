@@ -1,0 +1,12 @@
+Codigo_IsoA2_Pais  Codigo_IsoA3_Pais  Nombre_Pais
+-----------------  -----------------  --------------------
+DO                 DOM                Republica_Dominicana
+US                 USA                Estados_Unidos
+CA                 CAN                Canada
+MX                 MEX                Mexico
+BR                 BRA                Brasil
+AR                 ARG                Argentina
+CO                 COL                Colombia
+CL                 CHL                Chile
+PE                 PER                Peru
+ES                 ESP                Espana

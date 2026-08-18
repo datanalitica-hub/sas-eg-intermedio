@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-08-18T05:44:13.224583+00:00",
+  "_captured_run_id": "r_97d539f2116f4b138a54e1900365ff81",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote efw.econvar2006 (11 rows, 4 columns).",
+    "NOTE: PROC SQL statement used."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

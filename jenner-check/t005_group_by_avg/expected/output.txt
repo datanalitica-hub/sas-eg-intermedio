@@ -1,0 +1,5 @@
+Nombre_Continente  avg(econvar2006.gdppercapita)  avg(econvar2006.pop)
+-----------------  -----------------------------  --------------------
+AMERICA                         19355.5555555556      96611111.1111111
+ASIA                                       17300             972600000
+EUROPA                                     37000              64400000

@@ -1,0 +1,3 @@
+Codigo_IsoA2_Pais  Codigo_IsoA3_Pais  Nombre_Pais           Sub_Continente_Pais
+-----------------  -----------------  --------------------  -------------------
+DO                 DOM                Republica_Dominicana                    1

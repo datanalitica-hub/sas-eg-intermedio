@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_group_by_avg",
+  "source_file": "Proyecto/Programas/Ejercicio 5.sas",
+  "source_blob_sha": "9fdc144e73901ac80b4db95eb39284033fc76474",
+  "source_commit": "c8e07963c4a59f3ce636337fa2474572819f8a70",
+  "notes": "Ejercicio 5: PROC SQL GROUP BY continent with AVG(GDPPerCapita) and AVG(POP). Script copied unmodified; mock efw.econvar2006 (16-row country economic-indicator table across 3 continents) substituted for the undefined 'efw' library."
+}

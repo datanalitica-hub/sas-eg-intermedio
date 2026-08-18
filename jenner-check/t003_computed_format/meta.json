@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_computed_format",
+  "source_file": "Proyecto/Programas/Ejercicio 3 (variado).sas",
+  "source_blob_sha": "94b0a50862ed4c8f37de507da1dad0fb9d8b4ff8",
+  "source_commit": "c8e07963c4a59f3ce636337fa2474572819f8a70",
+  "notes": "Ejercicio 3 (variado): PROC SQL computed column (average of 5 EFW component scores) with an explicit FORMAT=comma15.2. Script copied unmodified; mock efw.econvar2005 (10-row EFW1..EFW5 score table) substituted for the undefined 'efw' library."
+}

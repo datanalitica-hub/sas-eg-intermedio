@@ -1,0 +1,4 @@
+Codigo_IsoA3_Pais  min(econvar2006.gdppercapita)  max(econvar2006.pop)
+-----------------  -----------------------------  --------------------
+DOM                                         2400              10800000
+PER                                         2100              33000000

@@ -1,0 +1,12 @@
+Codigo_IsoA3_Pais  Nombre_Pais           Nombre_Sub_Continente
+-----------------  --------------------  ---------------------
+DOM                Republica_Dominicana  Caribe
+USA                Estados_Unidos        Norteamerica
+CAN                Canada                Norteamerica
+MEX                Mexico                Caribe
+BRA                Brasil                Sudamerica
+ARG                Argentina             Sudamerica
+COL                Colombia              Caribe
+CHL                Chile                 Sudamerica
+PER                Peru                  Sudamerica
+ESP                Espana                Europa_Occidental

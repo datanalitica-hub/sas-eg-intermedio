@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_select_where",
+  "source_file": "Proyecto/Programas/Ejercicio 1.sas",
+  "source_blob_sha": "e0a7bf57edca5a2ca27db4e20e1b79209eef7e08",
+  "source_commit": "c8e07963c4a59f3ce636337fa2474572819f8a70",
+  "notes": "Ejercicio 1: PROC SQL SELECT * ... WHERE on efw.pais, filtering to a single ISO-A2 country code. Script copied unmodified; mock efw.pais (10-row country table) substituted for the undefined 'efw' library the SAS EG project assumes is pre-loaded."
+}
